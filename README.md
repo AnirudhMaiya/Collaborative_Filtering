@@ -2,7 +2,9 @@
 Simple implementation of CF using Keras.<br>
 
 Dataset used:
-MovieLens 1M dataset.
+MovieLens 1M.<br>
+Dataset link:<a>https://grouplens.org/datasets/movielens/1m/</a>
+
 
 Some implementations:
 1) User-User similarity was found out using Cosine similarity
