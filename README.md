@@ -7,11 +7,11 @@ MovieLens 1M.<br>
 Dataset link:<br>
 <a>https://grouplens.org/datasets/movielens/1m/</a>
 
-Some implementations:
-1) User-User similarity was found out using Cosine similarity
-2) Embedding based Neural Network to predict ratings.
-   a) Model 1 has mean absolute error of 0.723618
-   b) Model 2 has mean absolute error of 0.701187
+Some implementations:<br>
+1) User-User similarity was found out using Cosine similarity <br>
+2) Embedding based Neural Network to predict ratings. <br>
+   a) Model 1 has mean absolute error of 0.723618 <br>
+   b) Model 2 has mean absolute error of 0.701187 <br>
    
 Benchmarks:<br>
 <a>https://github.com/microsoft/recommenders/blob/master/benchmarks/movielens.ipynb</a>
