@@ -17,7 +17,8 @@ Benchmarks:<br>
 <a>https://github.com/microsoft/recommenders/blob/master/benchmarks/movielens.ipynb</a>
 
 Dependencies:<br>
-Keras == 2.2.5
+Keras == 2.2.5<br>
+Python == 3.6.8
 
 Future Work:
-1) Implementing Prof Andrew Ng's method of CF taught in Coursera's Machine Learning Course in python.
+1) Implementing Prof Andrew Ng's method of CF taught in Coursera's Machine Learning Course in Python.
